@@ -1709,14 +1709,6 @@ meta.foundation-mq-topbar {
       z-index: 98;
       margin-top: 2.8125rem; }
 
-.nav-header {
-  position: fixed;
-  width: 100%;
-  background: white;
-  z-index: 100;
-  border-bottom: 1px solid #ccc;
-}
-
 .top-bar {
   overflow: hidden;
   height: 2.8125rem;
@@ -6205,9 +6197,6 @@ th.hide-for-touch {
     background-size: cover;
     box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.18);
     height: 80%;
-    position: relative;
-    top: 80px;
-    margin-bottom: 80px;
   }
 
   .intro-text {
